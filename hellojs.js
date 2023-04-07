@@ -1,2 +1,2 @@
-console.log("New Hello JS");
+console.log("New Hello GithubJS");
 console.log("Nuevo");
